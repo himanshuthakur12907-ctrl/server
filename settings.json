@@ -8,7 +8,6 @@
   "server": {
     "ip": "StrategicMC.aternos.me",
     "port": 16779,
-    "version": "26.2",
     "try-creative": false
   },
   "position": {
